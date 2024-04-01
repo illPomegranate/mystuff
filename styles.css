@@ -1,0 +1,43 @@
+.highlight {
+    background-color: yellow;
+}
+#tts{
+    height: 200px;
+  position: relative;
+  margin: 0;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    
+}
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(93, 119, 191);
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+}
+#authors{
+    text-align: center;
+    
+}
+#story{
+    text-indent: 5%;
+    background-color: rgb(68, 175, 75);
+    position: relative;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    display: block;
+    border: 2px saddlebrown solid;
+    padding: 3%;
+}
+#aboveStory{
+    font-size: 30px;
+}
+#sentence{
+    text-indent: 5%;
+}
